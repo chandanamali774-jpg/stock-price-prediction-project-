@@ -1,8 +1,8 @@
-# Stock Price Prediction using Machine Learning
+Stock Price Prediction using Machine Learning
 
 This project predicts stock prices using Machine Learning and Streamlit.
 
-## Technologies Used
+Technologies Used
 - Python
 - Streamlit
 - Pandas
@@ -10,6 +10,6 @@ This project predicts stock prices using Machine Learning and Streamlit.
 - Scikit-learn
 - Matplotlib
 
-## Run the Project
+Run the Project
 
 streamlit run app.py
